@@ -1,2 +1,3 @@
 # Laksh.ai
-Building a sports analytics platform to produce advanced statistics
+
+Scaffold repo for CV pipeline.
