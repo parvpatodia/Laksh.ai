@@ -1,2 +1,2 @@
 def test_import():
-    import lakshai
+    import lakshai  # noqa: F401
