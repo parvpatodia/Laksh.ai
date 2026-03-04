@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: lakshai
+Version: 0.0.1
+Requires-Python: >=3.11
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4; extra == "dev"
+Requires-Dist: ruff>=0.3; extra == "dev"
+Dynamic: license-file
